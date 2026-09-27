@@ -4,7 +4,7 @@
 
 ### 🚀 Live Telegram Bot
 
-👉 **[Try ResumeAI on Telegram](https://t.me/ResumeAI_Analysis_bot)**
+👉 **[Try ResumeAI on Telegram]( https://t.me/ResumeAI_Analyzer_bot)**  
 
 **Telegram:** `@ResumeAI_Analysis_bot`
 
@@ -32,7 +32,7 @@ This makes it easier for candidates to understand how well their resume matches 
 
 ### 💬 Try the Chatbot
 
-👉 **[Open ResumeAI Telegram Bot](https://t.me/ResumeAI_Analysis_bot)**
+👉 **[Open ResumeAI Telegram Bot]( https://t.me/ResumeAI_Analyzer_bot)**
 
 You can test the complete resume analysis workflow directly through Telegram.
 
